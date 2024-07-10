@@ -10,12 +10,10 @@ This project demonstrates the use of NeuroEvolution of Augmenting Topologies (NE
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
+Hi there! I'm Utsav, a student passionate about artificial intelligence and machine learning. In this project, I use NEAT, a genetic algorithm for evolving neural networks, to teach an AI agent to drive a car in a simulated environment using Pygame. 
 In this project, we use NEAT, a genetic algorithm for evolving neural networks, to control a car that learns to navigate a track. The car's objective is to drive as far as possible without colliding with the walls.
 
 ## Features
