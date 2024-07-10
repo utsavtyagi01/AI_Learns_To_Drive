@@ -29,7 +29,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    [git clone https://github.com/yourusername/ai-learns-to-drive.git](https://github.com/utsavtyagi01/AI_Learns_To_Drive.git)
+    [git clone https://github.com/utsavtyagi01/AI_Learns_To_Drive.git]
     
     ```
     Or download the zip file
